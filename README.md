@@ -1,6 +1,8 @@
 # ketan  & nikita - Indian Wedding Website Template
 
 A professional, responsive wedding landing page template designed for Indian weddings.
+  Please view the digital wedding invitation and share your wishes:
+     https://flexabhicode.netlify.app/
 
 ## Features
 
